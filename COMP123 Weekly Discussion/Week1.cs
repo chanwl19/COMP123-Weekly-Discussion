@@ -1,6 +1,6 @@
 ﻿namespace COMP123_Weekly_Discussion
 {
-    internal class Program
+    internal class Week1
     {
         static void Main(string[] args)
         {
